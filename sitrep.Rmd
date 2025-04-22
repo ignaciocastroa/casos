@@ -2,3 +2,4 @@ Comparar tasa de ataque en diferentes grupos
 Para identificar grupos a priorizar en intervención
 Usar (sf) para analizar datos espaciales
 Reaizar graficos con {ggplot2}
+Revisar 
